@@ -4,7 +4,7 @@ Author: Ofir Cohen
 
 
 Description:
-A Unity version of the classic Connect Four game. Play against the AI!
+A Unity version of the classic Connect Four game. Play against a highly advanced AI built on Alpha-Beta search and Heuristics theory
 
 The app is the file: Connect4.apk
 
